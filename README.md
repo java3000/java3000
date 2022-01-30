@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @java3000
-- 👀 I’m interested in api, network services
+- 👀 I’m interested in apis, network services
 - 🌱 I’m currently learning java
 
 <!---
