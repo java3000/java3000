@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @java3000
 - 👀 I’m interested in apis, network services
-- 🌱 I’m currently learning java
+- 🌱 I’m love java, but not only
 - for some reasons using gitflic in parallel now
 
 <!---
