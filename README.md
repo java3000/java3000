@@ -2,6 +2,7 @@
 - 👀 I’m interested in apis, network services
 - 🌱 I’m love java, but not only
 - for some reasons using gitflic in parallel now
+- I’m Russian and I’m proud to be Russian.
 
 <!---
 java3000/java3000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
